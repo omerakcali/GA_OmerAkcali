@@ -784,3 +784,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.21-17.13.45:578][  0]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2021.05.21-17.13.45:581][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2021.05.21-17.13.45:662][  0]LogRenderer: Reallocating scene render targets to support 668x432 Format 10 NumSamples 1 (Frame:1).
+[2021.05.21-17.15.49:782][127]LogSlate: Window 'Source Control Login' being destroyed
+[2021.05.21-17.16.06:607][859]LogSlate: Window 'Source Control Login' being destroyed
+[2021.05.21-17.16.29:672][775]LogActorFactory: Actor Factory created Cylinder
+[2021.05.21-17.16.30:577][878]LogActorFactory: Actor Factory created Cylinder
+[2021.05.21-17.16.30:680][880]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.16.37:747][718]Cmd: EDIT COPY
+[2021.05.21-17.16.37:955][742]Cmd: EDIT PASTE
+[2021.05.21-17.16.45:247][556]LogActorFactory: Actor Factory created Cone
+[2021.05.21-17.16.46:456][699]LogActorFactory: Actor Factory created Cone
+[2021.05.21-17.17.54:911][511]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.21-17.18.04:736][600]Cmd: TRANSACTION UNDO
+[2021.05.21-17.18.04:736][600]LogEditorTransaction: Undo Edit Source Radius
+[2021.05.21-17.18.04:743][600]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.21-17.18.23:536][630]SourceControl: Source control is disabled
+[2021.05.21-17.18.23:537][630]LogSlate: Window 'Source Control Login' being destroyed
+[2021.05.21-17.18.47:894][599]LogSlate: Window 'Source Control Login' being destroyed
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:513][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:514][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:514][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:514][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:514][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:514][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:514][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:514][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:514][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.18.52:647][944]EditorErrors: Warning: No assets to check in!
+[2021.05.21-17.19.13:838][ 77]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.19.18:064][ 77]LogSlate: Window 'Save Level As' being destroyed
+[2021.05.21-17.19.18:116][ 82]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.19.35:939][783]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.05.21-17.19.42:162][208]LogSlate: Window 'Source Control Login' being destroyed
+[2021.05.21-17.19.51:897][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.21-17.19.54:265][665]LogSlate: Window 'Save Content' being destroyed
+[2021.05.21-17.19.54:327][665]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.19.59:888][665]LogSlate: Window 'Save Level As' being destroyed
+[2021.05.21-17.19.59:901][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.21-17.19.59:919][665]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Main245C724343B70004B9EFD3A30F2ECBEF.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main.umap'
+[2021.05.21-17.20.00:062][665]LogFileHelpers: Saving map 'Main' took 0.168
+[2021.05.21-17.20.00:093][665]AssetCheck: New page: Asset Save: Main
+[2021.05.21-17.20.00:093][665]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.05.21-17.20.00:119][667]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.21-17.20.00:157][670]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
+[2021.05.21-17.20.02:371][881]LogRenderer: Reallocating scene render targets to support 1008x684 Format 10 NumSamples 1 (Frame:18314).
