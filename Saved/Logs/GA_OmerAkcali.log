@@ -839,3 +839,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.21-17.20.00:119][667]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.05.21-17.20.00:157][670]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali'
 [2021.05.21-17.20.02:371][881]LogRenderer: Reallocating scene render targets to support 1008x684 Format 10 NumSamples 1 (Frame:18314).
+[2021.05.21-17.20.59:338][490]Cmd: TRANSACTION UNDO
+[2021.05.21-17.20.59:338][490]LogEditorTransaction: Undo Create Actors
+[2021.05.21-17.21.55:341][311]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-17.21.56:317][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.21-17.22.27:820][970]LogAssetEditorSubsystem: Opening Asset editor for Font /Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField
+[2021.05.21-17.22.36:605][974]LogSlate: Window 'RobotoDistanceField' being destroyed
+[2021.05.21-17.22.36:610][974]LogSlate: Window 'RobotoDistanceField' being destroyed
+[2021.05.21-17.22.41:980][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.21-17.22.46:588][613]LogSlate: Window 'Save Content' being destroyed
+[2021.05.21-17.22.46:673][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.21-17.22.46:680][613]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/MainEC720D0A4C11FB231892F1AAAC8B288E.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main.umap'
+[2021.05.21-17.22.46:684][613]LogFileHelpers: Saving map 'Main' took 0.014
+[2021.05.21-17.22.46:685][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.05.21-17.22.46:699][613]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Main_BuiltData12DBBA7F4FB95B68E24B94AAEEE5DE5A.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main_BuiltData.uasset'
+[2021.05.21-17.22.46:840][613]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-17.22.46:840][613]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.05.21-17.22.46:840][613]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.05.21-17.22.56:567][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
