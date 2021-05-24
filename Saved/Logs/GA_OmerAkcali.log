@@ -5206,3 +5206,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.24-14.33.00:926][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.05.24-14.33.00:938][802]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
 [2021.05.24-14.33.00:938][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-14.33.27:347][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.24-14.33.27:432][936]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Main_Auto109FACF5E41AE31D42643C08F3995D619.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2021.05.24-14.33.27:433][936]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.091
+[2021.05.24-14.33.27:433][936]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2021.05.24-14.33.27:434][936]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material1_3] ([1] browsable assets)...
+[2021.05.24-14.33.27:444][936]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material1_3.Material1_3]
+[2021.05.24-14.33.27:445][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material1_3]
+[2021.05.24-14.33.27:450][936]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Material1_3_Auto1C875D3B1463EC067A646658BA7BD5124.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Autosaves/Game/Material1_3_Auto1.uasset'
+[2021.05.24-14.33.27:451][936]LogFileHelpers: Auto-saving content packages took 0.017
+[2021.05.24-14.33.57:870][ 28]LogSlate: Window 'Message Log' being destroyed
+[2021.05.24-14.33.57:873][ 28]LogSlate: Window 'Message Log' being destroyed
+[2021.05.24-14.33.57:877][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.24-14.36.47:995][ 28]LogSlate: Window 'Save Content' being destroyed
+[2021.05.24-14.36.49:537][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.24-14.36.49:614][159]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Main98AB83AB4885DA689A413DB34E39F5F9.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main.umap'
+[2021.05.24-14.36.49:679][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.05.24-14.36.49:746][159]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Main_BuiltData57ADA9C24F0C81BB3BAD8FA31483654E.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main_BuiltData.uasset'
+[2021.05.24-14.36.49:753][159]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.24-14.36.49:753][159]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.05.24-14.36.49:753][159]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.05.24-14.36.51:712][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.24-14.36.53:902][338]LogSlate: Window 'Save Content' being destroyed
+[2021.05.24-14.36.53:999][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material1_3" FILE="../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Material1_3.uasset" SILENT=true
+[2021.05.24-14.36.54:001][338]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Material1_3EEF4CE4640F777402BE59DB03964352C.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Material1_3.uasset'
+[2021.05.24-14.36.54:007][338]AssetCheck: New page: Asset Save: Material1_3
+[2021.05.24-14.36.54:007][338]LogContentValidation: Display: Validating Material /Game/Material1_3.Material1_3
