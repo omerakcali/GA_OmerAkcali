@@ -1438,3 +1438,200 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.30-15.19.56:479][ 82]MapCheck: New page: Assignment0 - 30 May 2021 21:19:56
 [2021.05.30-15.19.56:479][ 82]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,286ms to complete.
 [2021.05.30-15.20.06:445][240]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.30-15.20.58:215][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.30-15.21.02:767][652]LogSlate: Window 'Save Content' being destroyed
+[2021.05.30-15.21.03:894][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.05.30-15.21.03:933][760]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Assignment048291A6741A75EE9AB3D9196A96766B8.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Assignment0.umap'
+[2021.05.30-15.21.04:024][760]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Assignment0_BuiltData9B805F5D44225700E30199901C827A76.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Assignment0_BuiltData.uasset'
+[2021.05.30-15.21.04:029][760]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.30-15.21.04:029][760]LogContentValidation: Display: Validating World /Game/Maps/Assignment0.Assignment0
+[2021.05.30-15.21.04:030][760]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Assignment0_BuiltData.Assignment0_BuiltData
+[2021.05.30-15.21.06:068][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.05.30-15.21.09:563][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.05.30-15.21.09:604][326]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Assignment0A309F2EA46508F2BBD7D688D3F784448.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Assignment0.umap'
+[2021.05.30-15.21.09:691][326]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Assignment0_BuiltData9BCE080243C883F6171DE68E012B51DF.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Assignment0_BuiltData.uasset'
+[2021.05.30-15.21.09:697][326]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.30-15.21.09:697][326]LogContentValidation: Display: Validating World /Game/Maps/Assignment0.Assignment0
+[2021.05.30-15.21.09:697][326]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Assignment0_BuiltData.Assignment0_BuiltData
+[2021.05.30-15.21.14:491][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.30-15.21.14:574][830]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Main.Main
+[2021.05.30-15.21.14:574][830]Cmd: MAP LOAD FILE="../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.30-15.21.14:574][830]LightingResults: New page: Lighting Build
+[2021.05.30-15.21.14:574][830]LoadErrors: New page: Loading map: Main.umap
+[2021.05.30-15.21.14:574][830]LogWorld: UWorld::CleanupWorld for Assignment0, bSessionEnded=true, bCleanupResources=true
+[2021.05.30-15.21.14:575][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.30-15.21.14:575][830]MapCheck: New page: Map Check
+[2021.05.30-15.21.14:575][830]LightingResults: New page: Lighting Build
+[2021.05.30-15.21.14:577][830]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.30-15.21.14:581][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.30-15.21.14:581][830]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.05.30-15.21.14:585][830]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.30-15.21.14:585][830]LogAIModule: Creating AISystem for world Main
+[2021.05.30-15.21.14:590][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.30-15.21.14:593][830]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.30-15.21.14:594][830]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,111ms to complete.
+[2021.05.30-15.21.14:594][830]LogFileHelpers: Loading map 'Main' took 0.020
+[2021.05.30-15.21.16:866][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube4)
+[2021.05.30-15.21.17:329][150]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.05.30-15.21.33:894][977]MapCheck: New page: Map Check
+[2021.05.30-15.21.33:909][977]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.30-15.21.33:909][977]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.30-15.21.35:166][977]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=false
+[2021.05.30-15.21.35:272][977]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.05.30-15.21.35:273][977]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.05.30-15.21.35:273][977]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.05.30-15.21.35:345][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.30-15.21.35:346][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:348][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:349][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:350][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:353][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.05.30-15.21.35:388][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.05.30-15.21.35:389][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.05.30-15.21.35:389][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.05.30-15.21.35:389][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.05.30-15.21.35:389][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.05.30-15.21.35:389][977]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.05.30-15.21.35:389][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.05.30-15.21.35:389][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.05.30-15.21.35:389][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:390][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:392][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:394][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:399][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.35:401][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 59
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 58
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 56
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 49
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 47
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 42
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 37
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 33
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.05.30-15.21.37:603][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.05.30-15.21.37:603][977]TextureStreamingBuild: Display: Compiling optional shaders took 2.257 seconds.
+[2021.05.30-15.21.37:609][977]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2021.05.30-15.21.37:610][977]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.05.30-15.21.37:613][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.30-15.21.37:614][977]LightingResults: New page: Lighting Build - 30 May 2021 21:21:37
+[2021.05.30-15.21.37:639][977]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.30-15.21.37:645][977]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.30-15.21.37:645][977]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.30-15.21.37:645][977]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.30-15.21.37:645][977]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18936
+[2021.05.30-15.21.42:180][977]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.30-15.21.42:180][977]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.30-15.21.42:180][977]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.30-15.21.42:180][977]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.30-15.21.42:180][977]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.30-15.21.42:180][977]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.30-15.21.42:353][977]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.05.30-15.21.42:353][977]MapCheck: New page: Main - 30 May 2021 21:21:42
+[2021.05.30-15.21.42:353][977]MapCheck: Warning: 1M_Cube_Chamfer7 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.05.30-15.21.42:354][977]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,936ms to complete.
+[2021.05.30-15.21.42:355][977]LogEditorBuildUtils: Build time 0:08
+[2021.05.30-15.21.42:509][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.30-15.21.47:218][260]LogSlate: Window 'Message Log' being destroyed
+[2021.05.30-15.21.47:226][260]LogSlate: Window 'Message Log' being destroyed
+[2021.05.30-15.21.48:394][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.30-15.21.48:496][328]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/MainB4E1AD9E44A455BB359338955CF35CE7.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main.umap'
+[2021.05.30-15.21.48:570][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.05.30-15.21.48:689][328]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Main_BuiltDataDFA4FC244958CA57CED3D99C9E5AB114.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main_BuiltData.uasset'
+[2021.05.30-15.21.48:696][328]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.30-15.21.48:696][328]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.05.30-15.21.48:696][328]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.05.30-15.21.50:945][476]Job is a success!
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport:          1: 5.8% covering 12.5% of volume
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport:          2: 93.5% covering 3.1% of volume
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.30-15.21.51:115][478]LogVolumetricLightmapImport:          Main 			 138 bricks 	 100.0% (Persistent Level)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2021.05.30-15.21.51:440][478]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2021.05.30-15.21.51:571][478]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2021.05.30-15.21.51:572][478]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X128)
+[2021.05.30-15.21.51:572][478]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2021.05.30-15.21.51:572][478]Lightmass on DESKTOP-KVVRKFP: 8.52 sec total, 229 ms importing, 31 ms setup, 1.00 sec photons, 7.21 sec processing, 0 ms extra exporting [439/439 mappings]. Threads: 1:19 min total, 10.4 sec processing.
+[2021.05.30-15.21.51:573][478]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 27 meshes in 4 LightmapResourceClusters (6.8 Meshes per cluster).
+[2021.05.30-15.21.51:582][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.30-15.21.51:611][478]LogStaticLightingSystem: Illumination: 13.9 sec (282 ms encoding lightmaps, 86 ms encoding shadowmaps)
+[2021.05.30-15.21.51:611][478]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (2.7 MB streaming, 0.7 MB non-streaming), 6 textures
+[2021.05.30-15.21.51:611][478]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 3 textures
+[2021.05.30-15.21.52:187][478]DumpUnbuiltLightIteractions
+[2021.05.30-15.21.52:187][478]Lights with unbuilt interactions: 0
+[2021.05.30-15.21.52:187][478]
+[2021.05.30-15.21.52:187][478]Primitives with unbuilt interactions: 0
+[2021.05.30-15.21.52:234][479]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.30-15.21.52:234][479]MapCheck: New page: Main - 30 May 2021 21:21:52
+[2021.05.30-15.21.52:234][479]MapCheck: Warning: 1M_Cube_Chamfer7 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.05.30-15.21.52:234][479]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,469ms to complete.
+[2021.05.30-15.21.55:091][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.30-15.21.55:168][697]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Main00D72B6A468262A3903625992019A470.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main.umap'
+[2021.05.30-15.21.55:294][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.05.30-15.21.55:363][697]LogSavePackage: Moving '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Saved/Main_BuiltDataA5B5FA3E4B1F523D77F7179A2DF1D752.tmp' to '../../../../../../Users/omera/Documents/Unreal Projects/GA_OmerAkcali/GA_OmerAkcali/Content/Maps/Main_BuiltData.uasset'
+[2021.05.30-15.21.55:369][697]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.30-15.21.55:369][697]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.05.30-15.21.55:369][697]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.05.30-15.21.56:543][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
